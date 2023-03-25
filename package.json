@@ -4,7 +4,7 @@
   "description": "Simple project using Redis and Express to report site hit counts, orchestrated with Docker Compose",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Stuart Huggins",
   "license": "MIT",
